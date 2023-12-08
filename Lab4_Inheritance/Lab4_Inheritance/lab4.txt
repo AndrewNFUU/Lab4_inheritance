@@ -1,0 +1,35 @@
+--------Person Info-------   
+Name: Emma
+Age: 13
+
+
+-------Student Info-------   
+Name: Alex
+Age: 19
+University: University of Toronto
+Specialty: Designer
+Group: DS 22/5
+Course: 2
+Average mark: 9.6
+
+
+-------Check Info-------   
+Name: Alex
+Age: 19
+University: University of Toronto
+Specialty: Designer
+Group: DS 22/5
+Course: 2
+Average mark: 9.6
+
+
+---Graduate Student Info---   
+Name: John
+Age: 25
+University: University of Colorado
+Specialty: Mechanic
+Group: MCh 41/7
+Course: 4
+Average mark: 8
+Thesis title: "Research of engines V8 version"
+
